@@ -1,6 +1,6 @@
 # OBMIN Server
 
-![Build Status Travis](https://travis-ci.org/konkor/obmin-docker.svg?branch=master)
+![Build Status](https://travis-ci.com/konkor/obmin-docker.svg?branch=master)
 
 A secure private personal server for your data.
 
