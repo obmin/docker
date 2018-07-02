@@ -7,5 +7,5 @@ export SHELL="/bin/bash"
 
 export DBUS_SESSION_BUS_ADDRESS=`dbus-daemon --session --print-address --fork`
 
-#obmin-server --config /etc/obmin.json
+#obmin-server --config /etc/obmin.config
 exec "$@"

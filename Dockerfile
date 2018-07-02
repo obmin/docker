@@ -35,7 +35,7 @@ RUN mkdir -p /home/obmin/releases \
     && rm -rf /home/obmin/releases
 
 ADD entrypoint.sh /
-ADD obmin.json /etc/
+ADD obmin.config /etc/
 
 RUN chown -R 1000.1000 /home/obmin
 
