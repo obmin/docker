@@ -1,10 +1,8 @@
-# [OBMIN Server](https://obmin.github.io)
+# [OBMIN Server](https://obmin.github.io) [<img alt="OBMIN" src="obmin.svg" align="right"  style="margin:0">](https://github.com/konkor/obmin)
 
 ![Build Status](https://travis-ci.com/konkor/obmin-docker.svg?branch=master)
 
 A secure private personal server for your data.
-
-[![LOGO](obmin.svg)](https://github.com/konkor/obmin)
 
 ## Using
 ```sh
