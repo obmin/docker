@@ -1,4 +1,4 @@
-# [OBMIN Server](obmin.github.io)
+# [OBMIN Server](https://obmin.github.io)
 
 ![Build Status](https://travis-ci.com/konkor/obmin-docker.svg?branch=master)
 
