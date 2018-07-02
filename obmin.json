@@ -1,0 +1,17 @@
+{
+"port":8088,
+"mode":0,
+"mounts":true,
+"links":true,
+"hiddens":false,
+"backups":true,
+"theme":"default",
+"logs":false,
+"https":false,
+"authentication":false,
+"user":"obmin",
+"password": "123456",
+"sources":[
+    {"path":"/srv/obmin","recursive":true}
+]
+}
